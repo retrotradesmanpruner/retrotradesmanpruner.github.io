@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://retrotradesmanpruner.github.io/sitemap.xml

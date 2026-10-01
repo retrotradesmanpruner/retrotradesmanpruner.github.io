@@ -1,0 +1,26 @@
+{
+  "name": "TG Форпост | 54 MTProxy с проверкой, обновлено 15:33 МСК",
+  "short_name": "TG Форпост",
+  "description": "TG Форпост: 54 рабочих MTProxy для Telegram, проверены и обновлены. Свои серверы Lite64 + агрегатор публичных списков. Подключение в один клик, бесплатно.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf4f8",
+  "theme_color": "#9d2573",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
